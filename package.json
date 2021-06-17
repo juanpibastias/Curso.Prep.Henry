@@ -23,5 +23,13 @@
   "license": "ISC",
   "jest": {
     "testURL": "http://localhost/"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/juanpibastias/Curso.Prep.Henry.git"
+  },
+  "bugs": {
+    "url": "https://github.com/juanpibastias/Curso.Prep.Henry/issues"
+  },
+  "homepage": "https://github.com/juanpibastias/Curso.Prep.Henry#readme"
 }
